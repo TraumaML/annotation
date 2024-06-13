@@ -1,0 +1,1 @@
+symptom_parser.py: This script works through a file that it loads and returns a new file called 'your_file_filtered.txt'. It takes as input your_file.txt and a txt doc with a list of symptoms

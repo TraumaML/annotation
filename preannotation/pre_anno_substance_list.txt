@@ -1,0 +1,60 @@
+Alcohol use disorder or d/o
+Alcohol dependence
+Alcohol abuse
+Alcohol intoxication
+Cannabis use disorder or d/o
+Cannabis dependence
+Cannabis abuse
+Marijuana use disorder or d/o
+Marijuana dependence
+Marijuana abuse
+Marijuana intoxication
+MJ use disorder or d/o
+MJ dependence
+MJ abuse
+Stimulant use disorder or d/o
+Stimulant dependence
+Stimulant abuse
+Stimulant intoxication
+Hallucinogen use disorder or d/o
+Hallucinogen dependence
+Hallucinogen abuse
+Opioid use disorder or d/o
+Opioid dependence
+Opioid abuse
+opiate use disorder or d/o
+opiate dependence
+opiate abuse
+Heroin use disorder or d/o
+Heroin abuse
+Heroin dependence
+cocaine use disorder or d/o
+cocaine dependence
+cocaine abuse
+amphetamine use disorder or d/o
+amphetamine dependence
+amphetamine abuse
+Sedative use disorder or d/o
+Sedative dependence
+Sedative abuse
+Hypnotic use disorder or d/o
+Hypnotic dependence
+Hypnotic abuse
+Anxiolytic use disorder or d/o
+Anxiolytic dependence
+Anxiolytic abuse
+Benzo* dependence
+Benzo* abuse
+Benzo* use disorder or d/o
+Benzo* misuse
+Benzo* overuse
+BDZ dependence
+BDZ abuse
+BDZ use disorder or d/o
+BDZ misuse
+BDZ overuse
+IV use
+IV heroin use
+Polysubstance use
+Polysubstance abuse
+Polysubstance dependence

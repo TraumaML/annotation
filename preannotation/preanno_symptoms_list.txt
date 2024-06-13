@@ -1,0 +1,257 @@
+*aggress*
+*agitat*
+*anergia*
+*anhedon*
+*apath*
+*arous*
+blunt* [0-2_words] *affect*
+flat [0-2_words] *affect*
+restrict [0-2_words] *affect*
+*affect* [0-2_words] blunt
+*affect* [0-2_words] flat
+*affect* [0-2_words] restrict
+concrete [0-2_words] think*
+think [0-2_words] concret*
+*delusion*
+*derail*
+poor* [0-2_words] sleep* or slep*
+interrupt* [0-2_words] sleep* or slep*
+disturb* [0-2_words] sleep* or slep*
+inadequat* [0-2_words] sleep* or slep*
+disorder* [0-2_words] sleep* or slep*
+prevent* [0-2_words] sleep* or slep*
+problem* [0-2_words] sleep* or slep*
+difficult* [0-2_words] sleep* or slep*
+reduc* [0-2_words] sleep* or slep*
+less* [0-2_words] sleep* or slep*
+impair* [0-2_words] sleep* or slep*
+erratic* [0-2_words] sleep* or slep*
+unable* [0-2_words] sleep* or slep*
+worse* [0-2_words] sleep* or slep*
+depriv* [0-2_words] sleep* or slep*
+little sleep
+sleepless night
+broken sleep
+sleep intermittently
+sleep* or slep* [0-2_words] poor*
+sleep* or slep* [0-2_words] interrupt*
+sleep* or slep* [0-2_words] disturb*
+sleep* or slep* [0-2_words] inadequat*
+sleep* or slep* [0-2_words] disorder*
+sleep* or slep* [0-2_words] prevent*
+sleep* or slep* [0-2_words] stop*
+sleep* or slep* [0-2_words] problem*
+sleep* or slep* [0-2_words] difficult*
+sleep* or slep* [0-2_words] reduc*
+sleep* or slep* [0-2_words] less*
+sleep* or slep* [0-2_words] impair*
+sleep* or slep* [0-2_words] erratic*
+sleep* or slep* [0-2_words] unable*
+sleep* or slep* [0-2_words] worse*
+sleep* or slep* [0-2_words] depriv*
+diurnal variation
+drows*
+early morning wakening
+*echola*
+elat*
+withdrawn
+flight of idea
+ftd
+formal thought disorder
+*grandios*
+*guil*
+hallucinat*
+auditory hallucinat*
+*olfactory* [0-10_words] *hallucin*
+*hallucin* [0-10_words] *olfactory*
+*gustat* [0-10_words] *hallucin*
+*hallucin* [0-10_words] *gustat*
+*tactile* [0-10_words] *hallucin*
+*hallucin* [0-10_words] *tactile*
+visual hallucinat*
+helpless*
+hopeles*
+*hostil*
+*insom*
+*irritabl*
+coheren*
+incoheren*
+energy
+change [0-2_words] *mood*
+changeable [0-2_words] *mood*
+changeable [0-2_words] *mood*
+changes [0-2_words] *mood*
+extremes [0-2_words] *mood*
+fluctuat* [0-2_words] *mood*
+instability [0-2_words] *mood*
+*labile* [0-2_words] mood
+*lability* [0-2_words] mood
+liability [0-2_words] mood
+liable [0-2_words] mood
+rapid cycling [0-2_words] mood
+*swings* [0-2_words] mood
+*unpredictable* [0-2_words] mood
+unsettled [0-2_words] mood
+unstable [0-2_words] mood
+*variable* [0-2_words] mood
+*variation* [0-2_words] mood
+*volatile* [0-2_words] mood
+mood [0-2_words] change
+*mood* [0-2_words] changeable
+mood [0-2_words] changeable
+mood [0-2_words] changes
+mood [0-2_words] extremes
+mood [0-2_words] *mood*
+mood [0-2_words] fluctuat*
+mood [0-2_words] instability
+mood [0-2_words] *labile*
+mood [0-2_words] *lability*
+mood [0-2_words] liability
+mood [0-2_words] liable
+mood [0-2_words] rapid cycling
+mood [0-2_words] *swings*
+mood [0-2_words] *unpredictable*
+mood [0-2_words] unsettled
+mood [0-2_words] unstable
+mood [0-2_words] *variable*
+mute*
+mutism
+negative *symptom*
+nightmare*
+*paranoi*
+persecu*
+*appetite* [0-3_words] *eating* *well*
+*eating* *well* [0-3_words] *appetite*
+*appetite* [0-3_words] *alright*
+*alright* [0-3_words] *appetite*
+*appetite* [0-3_words] *eats* *well*
+*eats* *well* [0-3_words] *appetite*
+*appetite* [0-3_words] *excellent*
+*excellent* [0-3_words] *appetite*
+*appetite * [0-3_words] *fine*
+*fine* [0-3_words] *appetite*
+*appetite * [0-3_words] *fair*
+*fair* [0-3_words] *appetite*
+*appetite* [0-3_words] *good*
+*good* [0-3_words] *appetite*
+*appetite* [0-3_words] *healthy*
+*healthy* [0-3_words] *appetite*
+*appetite* [0-3_words] *intact*
+*intact* [0-3_words] *appetite*
+*appetite* [0-3_words] *not* *too* *bad*
+*not* *too* *bad* [0-3_words] *appetite*
+*appetite* [0-3_words] *problem*
+*problem* [0-3_words] *appetite*
+*appetite* [0-3_words] *no* *problem*
+*no* *problem* [0-3_words] *appetite*
+*appetite* [0-3_words] *not* *a* *concern
+*not *a* *concern* [0-3_words] *appetite*
+lack* [0-2_words] motivat*
+poor [0-2_words] motivat*
+struggl* [0-2_words] motivate*
+no [0-2_words] motivat*
+poverty [0-2_words] speech
+impoverish* [0-2_words] speech
+speech [0-2_words] poverty
+speech [0-2_words] impoverish*
+poverty of thought
+social [0-3_words] withdraw*
+withdraw* [0-3_words] social
+stupor*
+*suicid* ideat*
+tangent
+tearful
+thought block
+though* [0-2_words] broadcast*
+though* [0-2_words] insert*
+waxy
+loss [0-2_words] weight
+lost [0-2_words] weight
+weight* [0-2_words] loss
+weight* [0-2_words] lost
+*worthless*
+trauma* stress
+re-experienc*
+reliv*
+recurrent dream* or memor*
+flashbacks
+intrusion
+intrusive memor*
+unwanted memor*
+trigger*
+distress
+bother*
+numb
+shame
+blame
+anger or angry
+fear
+horror
+terror
+terrif*
+dissociat*
+depersonalization
+derealization
+distant
+detach*
+cut off
+unreal*
+dreamlike
+distorted
+reckless
+self-destructive
+hyper-vigilan*
+vigilan*
+alert
+watchful
+threat
+danger
+on guard
+on edge
+startle
+sweat*
+heart rac*
+dream*
+anxious
+anxiety
+worried
+worry
+restless
+amnesia
+difficulty remembering
+decreased interest
+loss of interest
+commit suicide
+hear* voice*
+si
+ti
+tb
+tw
+pi
+IOR
+hi
+vh
+ah
+sib
+sa
+depressed
+depression
+palpitations
+elevated mood*
+self-cutting
+irritability
+distractibility
+impulsivity
+hyperactivity
+idea of reference
+intrusive thought*
+suicidality
+suicidal thought*
+magical thinking
+panic attack*
+hypervigilan*
+self-injurious behavior
+NSSI
+NSSIB
+*organized
+[1-1_words] historian
